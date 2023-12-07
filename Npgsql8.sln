@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DbContext", "DbContext\DbContext.csproj", "{558E7E66-4807-42F9-858E-B9831FA9D083}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entities", "Entities\Entities.csproj", "{E8FF65D9-BA68-4201-862F-9161756F0292}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{558E7E66-4807-42F9-858E-B9831FA9D083}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{558E7E66-4807-42F9-858E-B9831FA9D083}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{558E7E66-4807-42F9-858E-B9831FA9D083}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{558E7E66-4807-42F9-858E-B9831FA9D083}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E8FF65D9-BA68-4201-862F-9161756F0292}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8FF65D9-BA68-4201-862F-9161756F0292}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8FF65D9-BA68-4201-862F-9161756F0292}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8FF65D9-BA68-4201-862F-9161756F0292}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
